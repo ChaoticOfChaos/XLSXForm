@@ -1,0 +1,1 @@
+o Arquivo logins.csv é basicamente um arquvio placeholder. Pois não entendo de MySQL ou SQLite para fazer uma base de dados mais eficiente. Então usei um arquivo .csv para quebrar um galio
